@@ -1,124 +1,42 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id="></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-  
-    gtag('config', '');
-  </script>
-  <style> 
-/* social side https://znap.link/Ivd_2 */  
-    /* جميع الحقوق محفوظة باسم عبدالرحمن اليزيدي  */ 
-    .sticky-container{ 
-        padding:0px; 
-        margin:0px; 
-        position:fixed; 
-        left:-145px; 
-        top:350px; 
-        width:225px; 
-        z-index: 1100; 
-    } 
-     
-    .sticky li{ 
-        list-style-type:none; 
-        background-color:#ffffff24; 
-        border-radius: 15px; 
-        color:#efefef; 
-        height:43px; 
-        padding:0px; 
-        margin:0px 0px 1px 0px; 
-        -webkit-transition:all 0.25s ease-in-out; 
-        -moz-transition:all 0.25s ease-in-out; 
-        -o-transition:all 0.25s ease-in-out; 
-        transition:all 0.25s ease-in-out; 
-        cursor:pointer; 
-    } 
-    .sticky li:hover{ 
-        margin-right:-115px; 
-    } 
-    .sticky li img{ 
-        float:right; 
-        margin:5px 4px; 
-        margin-left:5px; 
-    } 
-    .sticky li p{ 
-        padding-top:5px; 
-        margin:0px; 
-        line-height:16px; 
-        font-size:11px; 
-    } 
-    .sticky li p a{ 
-        text-decoration:none; 
-        color:#fff; 
-    } 
-    .sticky li p a:hover{ 
-        text-decoration:underline; 
-    } 
-    </style>
-    <style> 
-/* social side https://znap.link/Ivd_2 */ 
- 
-.sticky-container{ 
-    padding:0px; 
-    margin:0px; 
-    position:fixed; 
-    left:-145px; 
-    top:350px; 
-    width:225px; 
-    z-index: 1100; 
-} 
- 
-.sticky li{ 
-    list-style-type:none; 
-    background-color:#ffffff24; 
-    border-radius: 15px; 
-    color:#efefef; 
-    height:43px; 
-    padding:0px; 
-    margin:0px 0px 1px 0px; 
-    -webkit-transition:all 0.25s ease-in-out; 
-    -moz-transition:all 0.25s ease-in-out; 
-    -o-transition:all 0.25s ease-in-out; 
-    transition:all 0.25s ease-in-out; 
-    cursor:pointer; 
-} 
-.sticky li:hover{ 
-    margin-right:-115px; 
-} 
-.sticky li img{ 
-    float:right; 
-    margin:5px 4px; 
-    margin-left:5px; 
-} 
-.sticky li p{ 
-    padding-top:5px; 
-    margin:0px; 
-    line-height:16px; 
-    font-size:11px; 
-} 
-.sticky li p a{ 
-    text-decoration:none; 
-    color:#fff; 
-} 
-.sticky li p a:hover{ 
-    text-decoration:underline; 
-} 
-</style>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iT-CAF/iT-CAF/main/assets/projects/icon-js-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iT-CAF/iT-CAF/main/assets/projects/icon-js-light.png">
+  <img alt="أيقونات التواصل — Social Sidebar Icons" src="https://raw.githubusercontent.com/iT-CAF/iT-CAF/main/assets/projects/icon-js-dark.png" width="100%">
+</picture>
+
+<p>
+  <img alt="Earlier work · 2022" src="https://img.shields.io/badge/Earlier_work_%C2%B7_2022-596268?style=flat-square">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-1A2024?style=flat-square&logo=html5&logoColor=E8A33D">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1A2024?style=flat-square&logo=css3&logoColor=E8A33D">
+  <img alt="JS" src="https://img.shields.io/badge/JS-1A2024?style=flat-square&logo=javascript&logoColor=E8A33D">
+</p>
+
+<div dir="rtl" align="right">
+
+### ‹ شريط جانبي ثابت لأيقونات التواصل يُضاف للمتاجر والمواقع.
+
+مقتطف جاهز يضيف شريطًا جانبيًا ثابتًا لأيقونات مواقع التواصل في أي متجر أو موقع.
+
+</div>
+
+**A drop-in sticky social-media sidebar for stores and websites.**
+
+A ready snippet that adds a sticky social-media sidebar to any store or website.
+
+## `>` Features · المزايا
+
+| Feature | الميزة |
+|:--|--:|
+| Copy-paste ready | نسخ ولصق مباشر |
+| Customisable sticky bar | شريط ثابت قابل للتخصيص |
 
 
+<br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iT-CAF/iT-CAF/main/assets/footer-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iT-CAF/iT-CAF/main/assets/footer-light.png">
+  <img alt="{ build quietly } — iT CAF" src="https://raw.githubusercontent.com/iT-CAF/iT-CAF/main/assets/footer-dark.png" width="100%">
+</picture>
 
-    <div class="sticky-container">
-    <ul class="sticky">
-    <li><img src="https://www.svgrepo.com/show/42543/twitter.svg" width="32" height="32">
-    <p><a href="https://twitter.com/drz_st" target="_blank"> اضغط هنا لمتابعتنا <br> عبر تويتر </a></p></li>
-    <li><img src="https://www.svgrepo.com/show/262923/snapchat.svg" width="32" height="32">
-    <p><a href="https://snapchat.com/add/ivd_2" target="_blank"> اضغط هنا لمتابعتنا <br> 👻 سناب شات</a></p></li>
-    <li><img src="https://www.svgrepo.com/show/176768/whatsapp-social-media.svg" width="32" height="32">
-    <p><a href="https://wa.me/+966500429552" target="_blank"> اضغط هنا للتواصل <br> عبر الواتساب </a></p></li>
-    <li><img src="https://www.svgrepo.com/show/303292/telegram-logo.svg" width="32" height="32">
-    <p><a href="https://t.me/DRZ_ST" target="_blank"> اضغط هنا لمتابعتنا <br> عبر تليقرام </a></p>
-    </li>
-    </ul>
-    </div>
+<p align="center"><sub>Built by <a href="https://github.com/iT-CAF">Abdulrhman Alyazidi · iT CAF</a> — <a href="https://it-caf.com">it-caf.com</a></sub></p>
